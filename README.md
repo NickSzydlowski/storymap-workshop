@@ -1,2 +1,2 @@
-# storymap-workshop
-Workshop template for StoryMap JS
+# StoryMapJS Workshop
+Workshop template for StoryMapJS
